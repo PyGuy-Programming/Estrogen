@@ -5,7 +5,7 @@ kotlin = "2.4.0"
 cloche = "0.19.14"
 
 # Minecraft
-minecraft = "1.21.1"
+minecraft = "1.21.11"
 fabric = "0.18.5"
 
 # Common Dependencies

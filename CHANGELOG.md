@@ -1,4 +1,4 @@
-# Estrogen `@VERSION@` `1.21.1` `Fabric & NeoForge`
+# Estrogen `@VERSION@` `1.21.11` `Fabric & NeoForge`
 
 ### Changelog:
 - Make carpet names consistent

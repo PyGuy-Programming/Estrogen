@@ -494,7 +494,7 @@ publishMods {
             "-neoforge"
         )
     )
-    val mcVersion = "1.21.1"
+    val mcVersion = "1.21.11"
     changelog = file("CHANGELOG.md").readText().replace("@VERSION@", modVersion)
     type = BETA
 
